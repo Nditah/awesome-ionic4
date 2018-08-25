@@ -14,6 +14,8 @@ Open source apps
 
 * [ionic4-starter-app](https://github.com/ionicthemes/ionic4-starter-app)
 * [ionic4-start-theme](https://github.com/ionictheme/ionic4-start-theme)
+* [ionic4-tabs-starter](https://github.com/alex-0407/ionic4-tabs-starter)
+* [ionic4-sidemenu-starter](https://github.com/alex-0407/ionic4-sidemenu-starter)
 * [ionic4-vue](https://github.com/ModusCreateOrg/ionic-vue)
 * [ionic4_angular6_elm](https://github.com/nuonuoge/ionic4_angular6_elm)
 * [ionic4-movies-app](https://github.com/okode/movies-app)
